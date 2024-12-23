@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/lekzyrs/Desktop/Lab2/.build/arm64-apple-macosx/debug/Lab2.build/master.swiftdeps"
+  },
+  "/Users/lekzyrs/Desktop/Lab2/Sources/main.swift": {
+    "dependencies": "/Users/lekzyrs/Desktop/Lab2/.build/arm64-apple-macosx/debug/Lab2.build/main.d",
+    "object": "/Users/lekzyrs/Desktop/Lab2/.build/arm64-apple-macosx/debug/Lab2.build/main.swift.o",
+    "swiftmodule": "/Users/lekzyrs/Desktop/Lab2/.build/arm64-apple-macosx/debug/Lab2.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/lekzyrs/Desktop/Lab2/.build/arm64-apple-macosx/debug/Lab2.build/main.swiftdeps"
+  }
+}
